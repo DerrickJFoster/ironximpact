@@ -1,22 +1,21 @@
 import React, { Component } from 'react'
-import Video from './components/video'
-import Chat from './components/chat'
+import { BrowserRouter as Router, Route } from "react-router-dom"
+
+// ROUTES
 import Header from './components/header'
-import Nav from './components/nav'
+import Home from './components/home'
+import Video from './components/video'
 import About from './components/about'
-import './App.css'
 
 class App extends Component {
   render() {
     return (
-      <>
+      <Router>
       <Header />
-      <Nav />
-      <About />
-      <Video />
-      <Chat />
-
-      </>
+        <Route path='/' exact component={Home} />
+        <Route path='/about' component={About} />
+        <Route path='/livestream' component={Video} />
+      </Router>
     )
   }
 }
