@@ -14,9 +14,9 @@ User can see twitter posts
 # Goals:  
 
 React Router  
-Working contact form  
+### Working contact form  
 Twitter feed  
 Twitch api  
 Live video feed  
-Hosted videos  
+### Hosted videos  
 Functional twitch chat  
