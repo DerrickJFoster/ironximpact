@@ -11,12 +11,12 @@ User can see twitter posts
 ![Wireframe](IronxImpact.png)
 
 
-Goals:
-
-React Router
-Working contact form
-Twitter feed
-Twitch api
-Live video feed
-Hosted videos
-Functional twitch chat
+Goals:  
+  
+React Router  
+Working contact form  
+Twitter feed  
+Twitch api  
+Live video feed  
+Hosted videos  
+Functional twitch chat  

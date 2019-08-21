@@ -20,7 +20,7 @@ body {
 a {
   color: lavender;
 }
-/* MEDIA */
+/* MEDIA-------------------------------------------------------*/
 
 .video {
   clear: both;
@@ -52,7 +52,7 @@ a {
   border: 3px solid var(--twitch-purple-transparent);
 }
 
-/* SOCIAL MEDIA WIDGET */
+/* SOCIAL MEDIA WIDGET--------------------------------------------*/
 .social-media {
   display: block;
 
@@ -79,13 +79,13 @@ a {
   margin-bottom: 30px;
 }
 
-/* ABOUT PAGE */
+/* ABOUT PAGE-------------------------------------------------*/
 .about-box {
   display: block;
   background: var(--twitch-purple);
   height: auto;
-  width: 99%;
-  margin-left: 0.5%;
+  width: 75%;
+  margin-left: 13%;
   /* border: 1px solid gold; */
   float: left;
   border-radius: 10px;
