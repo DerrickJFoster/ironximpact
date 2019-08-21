@@ -11,8 +11,8 @@ User can see twitter posts
 ![Wireframe](IronxImpact.png)
 
 
-Goals:  
-  
+# Goals:  
+
 React Router  
 Working contact form  
 Twitter feed  
