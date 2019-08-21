@@ -17,6 +17,9 @@ body {
   font-family: 'Saira Stencil One', cursive;
 }
 
+a {
+  color: lavender;
+}
 /* MEDIA */
 
 .video {
@@ -49,7 +52,7 @@ body {
   border: 3px solid var(--twitch-purple-transparent);
 }
 
-/* ABOUT PAGE */
+/* SOCIAL MEDIA WIDGET */
 .social-media {
   display: block;
 
@@ -65,19 +68,40 @@ body {
 
 .twitter-timeline{
   margin-left: 37.5px;
+}
+
+#profile-widget {
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  border-radius: 50%;
+  border: 2px dotted white;
+  margin-bottom: 30px;
+}
+
+/* ABOUT PAGE */
+.about-box {
+  display: block;
+  background: var(--twitch-purple);
+  height: auto;
+  width: 99%;
+  margin-left: 0.5%;
+  /* border: 1px solid gold; */
+  float: left;
+  border-radius: 10px;
+  text-align: center;
 
 }
 .about {
   padding-left: 10px;
   font-size: 3em;
-  text-align: center;
   font-family: 'Saira Stencil One', cursive;
 }
 
 #profile {
-  width: 200px;
-  height: 200px;
-  margin-left: 50px;
+  width: 300px;
+  height: 300px;
+  text-align: center;
   border-radius: 50%;
   border: 2px dotted white;
   margin-bottom: 30px;

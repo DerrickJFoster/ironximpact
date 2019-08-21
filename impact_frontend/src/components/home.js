@@ -8,7 +8,7 @@ class Home extends Component {
       <>
       <div className='social-media'>
       <h1 className='about'>Social Media</h1>
-        <img id='profile' src={Me} />
+        <img id='profile-widget' src={Me} />
 
         <a className="twitter-timeline" data-width="220" data-height="300" data-theme="dark" data-link-color="#981CEB" href="https://twitter.com/IronxImpact?ref_src=twsrc%5Etfw">Tweets by IronxImpact</a>
       </div>
