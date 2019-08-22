@@ -21,3 +21,4 @@ Twitch api
 Live video feed  
 * Hosted videos  
 Functional twitch chat  
+Deployed to GH Pages
