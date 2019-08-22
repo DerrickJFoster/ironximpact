@@ -12,9 +12,8 @@ class Home extends Component {
       <>
       <div className='social-media'>
         <h1 className='about'>Social Media</h1>
-        {/* <img id='profile-widget' src={Me} /> */}
 
-          <a className="twitter-timeline" data-width="220" data-height="300" data-theme="dark" data-link-color="#981CEB" href="https://twitter.com/IronxImpact?ref_src=twsrc%5Etfw">Tweets by IronxImpact</a>
+          <a className="twitter-timeline" data-width="400" data-height="300" data-theme="dark" data-link-color="#981CEB" href="https://twitter.com/IronxImpact?ref_src=twsrc%5Etfw" data-chrome='noheader, nofooter'></a>
 
           <div className='icons'>
             <a href='http://www.instagram.com/IronxImpact'><img  className='insta' src={instagram} /></a>

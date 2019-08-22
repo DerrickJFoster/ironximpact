@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
+import '../App.css'
 import Me from '../images/me.png'
+
 
 class About extends Component {
   render() {
