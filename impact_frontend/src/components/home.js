@@ -11,7 +11,7 @@ class Home extends Component {
     return (
       <>
       <div className='social-media'>
-        <h1 className='about'>Social Media</h1>
+        <h1 className='social'>Social Media</h1>
 
           <a className="twitter-timeline" data-width="400" data-height="300" data-theme="dark" data-link-color="#981CEB" href="https://twitter.com/IronxImpact?ref_src=twsrc%5Etfw" data-chrome='noheader, nofooter'></a>
 
