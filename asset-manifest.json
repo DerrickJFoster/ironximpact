@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33b7cead.chunk.css",
+    "main.js": "/static/js/main.d3827c64.chunk.js",
+    "main.js.map": "/static/js/main.d3827c64.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.da3aedd4.js",
+    "runtime~main.js.map": "/static/js/runtime~main.da3aedd4.js.map",
+    "static/js/2.66f1a293.chunk.js": "/static/js/2.66f1a293.chunk.js",
+    "static/js/2.66f1a293.chunk.js.map": "/static/js/2.66f1a293.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.301084362cf0a6defa2e059fc7dcd33f.js": "/precache-manifest.301084362cf0a6defa2e059fc7dcd33f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.33b7cead.chunk.css.map": "/static/css/main.33b7cead.chunk.css.map",
+    "static/media/amazon.png": "/static/media/amazon.45b0e69a.png",
+    "static/media/facebook.png": "/static/media/facebook.55ec8139.png",
+    "static/media/instagram.png": "/static/media/instagram.751a308e.png",
+    "static/media/me.png": "/static/media/me.af11d6a6.png",
+    "static/media/snapchat.png": "/static/media/snapchat.6de2b97b.png",
+    "static/media/App.css": "/static/media/static.f925d88a.png"
+  }
+}
