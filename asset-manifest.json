@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2bddf3c.chunk.css",
-    "main.js": "/static/js/main.78c8e682.chunk.js",
-    "main.js.map": "/static/js/main.78c8e682.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.da3aedd4.js",
-    "runtime~main.js.map": "/static/js/runtime~main.da3aedd4.js.map",
-    "static/js/2.9daac924.chunk.js": "/static/js/2.9daac924.chunk.js",
-    "static/js/2.9daac924.chunk.js.map": "/static/js/2.9daac924.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b8875f9501f8cbb13efab95f0bf4b24d.js": "/precache-manifest.b8875f9501f8cbb13efab95f0bf4b24d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a2bddf3c.chunk.css.map": "/static/css/main.a2bddf3c.chunk.css.map",
-    "static/media/amazon.png": "/static/media/amazon.45b0e69a.png",
-    "static/media/facebook.png": "/static/media/facebook.55ec8139.png",
-    "static/media/instagram.png": "/static/media/instagram.751a308e.png",
-    "static/media/me.png": "/static/media/me.af11d6a6.png",
-    "static/media/snapchat.png": "/static/media/snapchat.6de2b97b.png",
-    "static/media/App.css": "/static/media/static.f925d88a.png"
+    "main.css": "/ironximpact/static/css/main.34ca176a.chunk.css",
+    "main.js": "/ironximpact/static/js/main.4f47061c.chunk.js",
+    "main.js.map": "/ironximpact/static/js/main.4f47061c.chunk.js.map",
+    "runtime~main.js": "/ironximpact/static/js/runtime~main.da53515a.js",
+    "runtime~main.js.map": "/ironximpact/static/js/runtime~main.da53515a.js.map",
+    "static/js/2.5dddd37a.chunk.js": "/ironximpact/static/js/2.5dddd37a.chunk.js",
+    "static/js/2.5dddd37a.chunk.js.map": "/ironximpact/static/js/2.5dddd37a.chunk.js.map",
+    "index.html": "/ironximpact/index.html",
+    "precache-manifest.e34dfb414fcda85f0f3ab96639c587e6.js": "/ironximpact/precache-manifest.e34dfb414fcda85f0f3ab96639c587e6.js",
+    "service-worker.js": "/ironximpact/service-worker.js",
+    "static/css/main.34ca176a.chunk.css.map": "/ironximpact/static/css/main.34ca176a.chunk.css.map",
+    "static/media/amazon.png": "/ironximpact/static/media/amazon.45b0e69a.png",
+    "static/media/facebook.png": "/ironximpact/static/media/facebook.55ec8139.png",
+    "static/media/instagram.png": "/ironximpact/static/media/instagram.751a308e.png",
+    "static/media/me.png": "/ironximpact/static/media/me.af11d6a6.png",
+    "static/media/snapchat.png": "/ironximpact/static/media/snapchat.6de2b97b.png",
+    "static/media/App.css": "/ironximpact/static/media/static.f925d88a.png"
   }
 }
