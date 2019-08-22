@@ -6,6 +6,7 @@ import Header from './components/header'
 import Home from './components/home'
 import Video from './components/video'
 import About from './components/about'
+import Contact from'./components/contact'
 
 class App extends Component {
   render() {
@@ -15,6 +16,8 @@ class App extends Component {
         <Route path='/' exact component={Home} />
         <Route path='/about' component={About} />
         <Route path='/livestream' component={Video} />
+        <Route path='/contact' component={Contact} />
+
       </Router>
     )
   }
