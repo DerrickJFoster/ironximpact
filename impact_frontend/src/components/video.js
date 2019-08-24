@@ -5,7 +5,7 @@ class Video extends Component {
     return (
       <>
       <iframe className='video-page'
-          src="https://player.twitch.tv/?channel=naomi&muted=true"
+          src="https://player.twitch.tv/?channel=bobross&muted=true"
           height= '500'
           width= '800'
           frameborder= '0'
@@ -18,7 +18,7 @@ class Video extends Component {
         frameborder="0"
         scrolling="yes"
         id="chat_embed"
-        src="https://www.twitch.tv/embed/naomi/chat"
+        src="https://www.twitch.tv/embed/bobross/chat"
         height="500"
         width="300">
         </iframe>
